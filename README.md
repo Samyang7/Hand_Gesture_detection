@@ -2,12 +2,12 @@
 python3
 
 # necessary library
-*pandas
-*sklearn 
-*sklearn.tree
-*sklearn.model_selection
-*sklearn.metrics
-*os
+* pandas
+* sklearn 
+* sklearn.tree
+* sklearn.model_selection
+* sklearn.metrics
+* os
 
 # software
 jupyter-notebook
